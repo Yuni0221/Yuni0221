@@ -1,4 +1,4 @@
-🕶 Hi, I’m Yuni
+🪵 Hi, I’m Yuni
 
 🐰 (Baby) Front-end developer
 
