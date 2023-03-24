@@ -1,6 +1,6 @@
 🪵 Hi, I’m Yuni
 
-🐰 (Baby) Front-end developer
+🐰 Learning Front-end skills
 
 🏡 Based in Seoul 
 
